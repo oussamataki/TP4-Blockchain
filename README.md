@@ -55,6 +55,3 @@ BlockChain Valide
 - Utiliser une base de données pour stocker les blocs de manière persistante.  
 - Implémenter un réseau distribué avec synchronisation des blocs.  
 
----
-
-Voulez-vous que j’ajoute ou modifie quelque chose dans ce README ? 🚀
